@@ -1,0 +1,15 @@
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\bin\Debug\net6.0\IAm.exe
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\bin\Debug\net6.0\IAm.deps.json
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\bin\Debug\net6.0\IAm.runtimeconfig.json
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\bin\Debug\net6.0\IAm.dll
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\bin\Debug\net6.0\IAm.pdb
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.csproj.AssemblyReference.cache
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.AssemblyInfoInputs.cache
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.AssemblyInfo.cs
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.csproj.CoreCompileInputs.cache
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.dll
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\refint\IAm.dll
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.pdb
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\IAm.genruntimeconfig.cache
+C:\Users\The user\Downloads\פרקטיקום\Git\TestGit\IAm\obj\Debug\net6.0\ref\IAm.dll
